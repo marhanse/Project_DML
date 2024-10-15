@@ -17,6 +17,8 @@ dependencies:
 - pandas
 - seaborn
 - pywin32
+- scikit-image
+- opencv
 - pip:
   - future
   - tb-nightly
