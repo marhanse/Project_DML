@@ -19,6 +19,7 @@ dependencies:
 - pywin32
 - scikit-image
 - opencv
+- torchmetrics
 - pip:
   - future
   - tb-nightly
