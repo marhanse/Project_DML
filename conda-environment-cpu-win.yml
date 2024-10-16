@@ -20,6 +20,7 @@ dependencies:
 - scikit-image
 - opencv
 - torchmetrics
+- segmentation-models-pytorch
 - pip:
   - future
   - tb-nightly
